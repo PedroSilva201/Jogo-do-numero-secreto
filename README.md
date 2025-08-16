@@ -1,12 +1,12 @@
 # Apresentação do Projeto
-O proejto desenvolvido foi a realização de um jogo com o aprendizado principal de dominar tecnicas de programação em javascript, HTML e CSS.
+O projeto desenvolvido foi a realização de um jogo com o aprendizado principal de dominar técnicas de programação em javascript, HTML e CSS.
 
 ## Jogo do Numero Secreto
 ### Jogo do numero secreto
-Este jogo foi desenvolvido durante o curso de imersão de Back-end da Alura realizado entre os dias 18 e 22 de novembro de 2024, valido como uma reciclagem após ter reazlaido um curso durante a imersão sobre logica com Javascript.
+Este jogo foi desenvolvido durante o curso de imersão de Back-end da Alura realizado entre os dias 18 e 22 de novembro de 2024, válido como uma reciclagem após ter realizado um curso durante a imersão sobre lógica com Javascript.
 
 ## Objetivos
-O principal objetivo é escolher um numero entre 1 e 1000 (voce poderá mudar a variavel para 10, 100 por exemplo) e ficar tentando por varias vezes até quando ganhar o jogo, e assim que sair deve ser emitido uma quantidade de acertos de acordo com o jogo.
+O principal objetivo é escolher um número entre 1 e 1000 (você poderá mudar a variável para 10, 100 por exemplo) e ficar tentando por várias vezes até quando ganhar o jogo, e assim que sair deve ser emitido uma quantidade de acertos de acordo com o jogo.
 
 # Dicas
-Use dois numeros aleatórios como parametro, com base neles vode poderá tentar outros numeros até conseguir descobrir a solução, com base na orientação das respostas anotye em uma folha de papel ou em um arquivo da propria maquina, mesmo que seja no dontpad ou na nuvem e depois disso saber quantas tenativas vode poderá ter conseguido com o mesmo...
+Use dois números aleatórios como parâmetro, com base neles você poderá tentar outros números até conseguir descobrir a solução, com base na orientação das respostas anote em uma folha de papel ou em um arquivo da própria máquina, mesmo que seja no dotpad ou na nuvem e depois disso saber quantas tentativas você poderá ter conseguido com o mesmo...
