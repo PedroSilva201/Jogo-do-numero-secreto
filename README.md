@@ -1,8 +1,8 @@
 # Apresentação do Projeto
 O projeto desenvolvido foi a realização de um jogo com o aprendizado principal de dominar técnicas de programação em javascript, HTML e CSS.
 
-## Jogo do Numero Secreto
-### Jogo do numero secreto
+## Jogo do Número Secreto
+### Jogo do número secreto
 Este jogo foi desenvolvido durante o curso de imersão de Back-end da Alura realizado entre os dias 18 e 22 de novembro de 2024, válido como uma reciclagem após ter realizado um curso durante a imersão sobre lógica com Javascript.
 
 ## Objetivos
